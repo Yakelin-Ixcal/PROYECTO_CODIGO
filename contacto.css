@@ -1,0 +1,83 @@
+body{
+    background-image: url(img/fondo1.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+
+.triangulo{   
+     display: inline-block;
+}
+
+.triangulo img{
+    display: inline-block;
+    width: 130%;
+    margin: 10px;
+    padding: 0%;
+
+}
+.texto{
+    font-size: 20px;
+    position: absolute;
+    top: 26%;
+    left: 50%;
+    transform: translate(-30%, -50%);
+}
+
+.texto2{
+    position: absolute;
+    top: 52%;
+    transform: translate(45%, -20%);
+    font-size: 25px;
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+input{
+    display:block;
+    margin:auto;
+    padding: 12px 145px;
+    font-size: 20px;
+    text-align: left-;
+}
+
+button{
+    font-size: 100%;
+    display: block;
+    margin-left: 1000px;
+    line-height: 50px;
+    text-align: center;
+    width: 100px;
+    height: 50px;
+}
+.img_inicio{
+    margin-left: 750px;
+}
+
+.barra{
+   width: 1000px;
+   height: 480px;
+   text-align: center;
+
+}
+.barra img{
+
+    width: 32px; 
+    height: 32px;
+    padding: 9px;
+    display: block;
+    margin: auto;
+    float: left;
+    background-color: rgba(0, 0, 0, 0.479);
+
+}
+

@@ -1,0 +1,103 @@
+
+
+body{
+
+    background-image: url(img/fondo1.jpg);
+    background-position: center ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+    
+}
+
+.barra2 img{
+
+    width: 42px; 
+    height: 42px;
+    padding: 9px;
+    margin-top: 10px;
+
+}
+
+.barra2 img{
+    background-color: rgba(0, 0, 0, 0.144);
+}
+
+h1{
+    text-align: center;
+}
+
+
+
+
+
+.img1{
+
+ 
+    display:block;
+    margin:auto;
+
+}
+
+.biografia{
+    margin-left: 100px;
+    margin-right:100px ;
+    text-align: center;
+}
+
+.past1{
+    text-align: center;
+    width: 300px;
+    margin: 0 auto;
+    float: left;
+    margin-top: 20px;
+    margin-left: 14%;
+    box-shadow: 2px 2px 5px rgba(15, 15, 15, 0.425);
+    border-radius: 30px;
+    background-color: rgba(0, 0, 0, 0.384);
+
+}
+.past1 img{
+margin-top: 20px;
+
+}
+
+.past2{
+border-radius: 30px;
+margin-left: 25px;
+text-align: center;
+width: 300px;
+margin: 0 auto;
+float: left;
+margin-top: 20px;
+margin-left: 35px;
+box-shadow: 2px 2px 5px rgba(15, 15, 15, 0.397);
+background-color: rgba(0, 0, 0, 0.384);
+}
+
+.past2 img{
+margin-top: 20px;
+
+}
+
+.Boton{
+margin: 20px;
+}
+
+.past3{
+border-radius: 30px;
+margin-left: 25px;
+text-align: center;
+width: 300px;
+margin: 0 auto;
+float: left;
+margin-top: 20px;
+margin-left: 35px;
+box-shadow: 2px 2px 5px rgba(15, 15, 15, 0.548);
+background-color: rgba(0, 0, 0, 0.384);
+}
+
+.past3 img{
+margin-top: 20px;
+
+}
